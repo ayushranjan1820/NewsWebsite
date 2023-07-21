@@ -1,1 +1,1 @@
-# NewsWebsite
+# NewsWebsite - HTML ONLY
